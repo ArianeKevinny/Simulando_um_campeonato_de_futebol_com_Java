@@ -1,5 +1,3 @@
-Entrega 01 -> Lista de exercício individual 1
-
 Especifícações
  -- Todos os clubes se enfrentam entre si em jogos de ida e volta;
  -- Um vitória vale 3 pontos, um empate vale 1 ponto e uma derrota não vale nada;
